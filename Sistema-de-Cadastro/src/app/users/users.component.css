@@ -1,0 +1,15 @@
+table{
+    width:100%;
+    color:black;
+}
+
+table thead{
+    background-color:bisque;
+    color:black;
+}
+
+table td{
+    border: 1px solid;
+    color:black;
+    background-color: bisque;
+}
